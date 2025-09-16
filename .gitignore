@@ -1,0 +1,19 @@
+# Generated artifacts for research paper folder
+.thumbs/
+prioritized/
+
+# Caches and temporary arrays
+*.npy
+
+# Common outputs produced by scripts in this folder
+features.csv
+candidates.csv
+*.log
+
+# Local virtual envs or environment files (if created here)
+.venv/
+.env
+
+# OS/editor-specific files
+.DS_Store
+Thumbs.db
